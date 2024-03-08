@@ -16,6 +16,9 @@
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>21</java.version>
+        <sonar.projectKey>itsAanis_springApi</sonar.projectKey>
+        <sonar.organization>itsaanis</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencies>

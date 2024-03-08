@@ -1,0 +1,5 @@
+com/example/sakiladb/repositories/ActorRepository.class
+com/example/sakiladb/controllers/ActorController.class
+com/example/sakiladb/entities/Film.class
+com/example/sakiladb/input/ActorInput.class
+com/example/sakiladb/entities/Actor.class
